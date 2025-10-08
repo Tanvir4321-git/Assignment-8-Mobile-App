@@ -1,0 +1,10 @@
+.active{
+ background: linear-gradient(125deg, #632EE3 5.68%, #9F62F2 88.38%);
+  background-clip: text;
+  color: #4519bf6e;
+ text-decoration: underline;
+
+}
+body{
+    font-family: "Inter", sans-serif;
+}

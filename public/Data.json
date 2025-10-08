@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/EGb76VRrWEDpEFuEbLxd_Zaw7V8JsieWxjthtbdqMnxyjkCv8SdOYrM1onHHG1XOrzc",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelSoft Ltd.",
+    "id": 1,
+    "description": "A powerful photo editing app with filters, effects, and AI tools.",
+    "size": 85,
+    "reviews": 2450,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1550 }
+    ]
+  },
+  {
+    "image": "https://img.utdstc.com/icon/22d/30a/22d30a1bdb60f30f1e19599994bf6a8908caaf32bc91675870f9937827ada095:200",
+    "title": "MusicMate",
+    "companyName": "Harmony Studio",
+    "id": 2,
+    "description": "Stream and download millions of songs from your favorite artists.",
+    "size": 60,
+    "reviews": 3210,
+    "ratingAvg": 4.3,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1510 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnx5PUZpS5WvwJdWU0Qi7oQaYNXyFpMkHR9g&s",
+    "title": "TaskFlow",
+    "companyName": "NextGen Apps",
+    "id": 3,
+    "description": "Organize your tasks and boost productivity with smart reminders.",
+    "size": 40,
+    "reviews": 1780,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1030 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/XbyPYUvaiayhseYJkxprcSRwnRCm3wtlEQq9SW7eQ-aCaYCbqi3NSweLJgzK_i1u2EY",
+    "title": "FitTrack",
+    "companyName": "Healthify Co.",
+    "id": 4,
+    "description": "Track workouts, monitor calories, and stay fit with AI guidance.",
+    "size": 95,
+    "reviews": 2890,
+    "ratingAvg": 4.7,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 750 },
+      { "name": "5 star", "count": 1865 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/VXl4frs1zbWoQLXZVo4gNSUE1j6XyzdRU1IbYl9vzHA6i3NfpMy6yPIZg13bL-76Qw=w526-h296-rw",
+    "title": "LearnIt",
+    "companyName": "EduTech Global",
+    "id": 5,
+    "description": "Learn new skills through interactive lessons and quizzes.",
+    "size": 120,
+    "reviews": 5100,
+    "ratingAvg": 4.4,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 2320 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW9Z8vHdnr6rfyIyy_wxgVXHmhaz_RUTJGmQ&s",
+    "title": "TripMate",
+    "companyName": "TravelWorld Inc.",
+    "id": 6,
+    "description": "Plan your trips, find flights, and explore destinations easily.",
+    "size": 70,
+    "reviews": 2300,
+    "ratingAvg": 4.2,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 850 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/f3ejHit0ZaO2R3f1U0UcFPCSE43NpQ4yeGmfwVX75zKV_2DDnVQTNL4Uin4ZWkaGYr90",
+    "title": "NoteEase",
+    "companyName": "SmartSoft",
+    "id": 7,
+    "description": "Quickly create, sync, and organize your notes with cloud backup.",
+    "size": 55,
+    "reviews": 1640,
+    "ratingAvg": 4.1,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/xStBcJPuPBtrPnQi8swLwib0wnIQOZp2J7ckVAj7NHXHcJBAg4IiwRbYxAHd4Cj2TQ",
+    "title": "WeatherNow",
+    "companyName": "SkyView Labs",
+    "id": 8,
+    "description": "Real-time weather forecasts, radar maps, and alerts worldwide.",
+    "size": 65,
+    "reviews": 2750,
+    "ratingAvg": 4.5,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1490 }
+    ]
+  }
+]
