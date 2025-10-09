@@ -1,5 +1,5 @@
 import React from 'react';
-import error from '../assets/App-Error.png'
+import error from '../assets/error-404.png'
 import Navbar from '../Components/Navbar';
 import Footer from '../Components/Footer';
 import { Link } from 'react-router';
@@ -9,11 +9,11 @@ const Error = () => {
         <>
         <Navbar></Navbar>
         <div className='bg-[#f5f5f5]'>
-            <div className='max-w-11/12 mx-auto p-20 space-y-5'>
+            <div className='max-w-11/12 mx-auto p-7 md:p-20 space-y-5'>
 
-<img className='mx-auto' src={error} alt="" />
-<h2 className='text-[#001931] font-semibold text-5xl text-center'>Oops, page not found!</h2>
-<p className='text-[#627382] text-center'>Oops, page not found!</p>
+<img className='mx-auto ' src={error} alt="" />
+<h2 className='text-[#001931] font-semibold text-2xl md:text-5xl text-center'>Oops, page not found!</h2>
+<p className='text-[#627382] text-center'>The page you are looking for is not available.</p>
 <div className=' bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] flex justify-center mx-auto py-3 px-4 w-[150px] rounded-[10px] '>
    
     

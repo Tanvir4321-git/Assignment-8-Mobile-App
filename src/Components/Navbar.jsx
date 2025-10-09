@@ -6,7 +6,7 @@ import Btnimg from '../assets/GitHub-logo-006b47c9b39d1112b0e8b9d8472f91a2.png'
 
 const Navbar = () => {
     return (
-     <div className='bg-base-100 shadow-sm py-4'>
+     <div className='bg-base-100 shadow-sm py-2 md:py-4'>
           <div className="navbar max-w-11/12 mx-auto ">
   <div className="navbar-start  ">
     <div className="dropdown ">
@@ -23,8 +23,8 @@ const Navbar = () => {
     </div>
     
   <Link to='/'>
-    <div className='flex items-center gap-2'>
-        <img className='w-10 h-10' src={logo} alt="" />
+    <div className='flex items-center gap-1 md:gap-2'>
+        <img className='md:w-10 w-6 h-6 md:h-10' src={logo} alt="" />
         <h1 className='font-bold bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent '>HERO.IO</h1>
     </div>
   </Link>
@@ -38,9 +38,9 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end ">
-<div className=' bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] py-3 px-4 flex items-center rounded-[10px] gap-1'>
-     <img className='w-10' src={Btnimg} alt="" />
-    <a className=" text-white font-semibold" href='https://github.com/Tanvir4321-git'>Contribute</a>
+<div  className=' bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] py-1 px-2 flex items-center rounded-[10px] gap-1'>
+     <img className='w-7 md:w-10' src={Btnimg} alt="" />
+    <a className=" text-white font-normal md:font-semibold text-[14px] md:text-[16px]" href='https://github.com/Tanvir4321-git'>Contribute</a>
 </div>
   </div>
 </div>

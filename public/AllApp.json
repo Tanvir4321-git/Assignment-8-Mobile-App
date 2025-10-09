@@ -1,0 +1,322 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/EGb76VRrWEDpEFuEbLxd_Zaw7V8JsieWxjthtbdqMnxyjkCv8SdOYrM1onHHG1XOrzc",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelSoft Ltd.",
+    "id": 1,
+    "description": "Welcome to Photo Editor Pro, the ultimate tool for transforming your images! This powerful application is packed with a comprehensive suite of **filters, effects, and cutting-edge AI tools** designed for both amateur and professional photographers. Dive into advanced features like layer editing, precise color correction, and selective adjustments. Our AI-powered features include intelligent object removal, automatic sky replacement, and smart portrait enhancements, allowing you to achieve stunning results with minimal effort. The intuitive interface makes complex editing tasks simple, ensuring a smooth and enjoyable user experience. Whether you need to quickly fix a photo or craft a detailed masterpiece, Photo Editor Pro provides all the necessary tools for creative excellence, complete with cloud storage integration and high-resolution export options.",
+    "size": 85,
+    "reviews": 2450,
+    "ratingAvg": 4.6,
+    "downloads": "100k",
+    "developerBy": "PixelSoft Developers",
+    "totalReviews": 2450,
+    "ratings": [
+      { "name": "5 star", "count": 1550 },
+      { "name": "4 star", "count": 600 },
+      { "name": "3 star", "count": 180 },
+      { "name": "2 star", "count": 70 },
+      { "name": "1 star", "count": 50 }
+    ]
+  },
+  {
+    "image": "https://img.utdstc.com/icon/22d/30a/22d30a1bdb60f30f1e19599994bf6a8908caaf32bc91675870f9937827ada095:200",
+    "title": "MusicMate",
+    "companyName": "Harmony Studio",
+    "id": 2,
+    "description": "MusicMate is your all-in-one platform for music discovery and playback. **Stream and download millions of songs** from a massive, global library, featuring all your favorite artists and genres, from the latest chart-toppers to niche independent tracks. Create personalized playlists, listen to curated radio stations based on your mood, and enjoy high-fidelity audio quality. Offline listening is a breeze with our download feature, perfect for when you're on the go without data. Discover new music with personalized recommendations and follow your friends to see what they are listening to. MusicMate offers a seamless, ad-free experience for subscribers, complete with lyric synchronization and cross-device compatibility.",
+    "size": 60,
+    "reviews": 3210,
+    "ratingAvg": 4.3,
+    "downloads": "500k",
+    "developerBy": "Harmony Devs",
+    "totalReviews": 3210,
+    "ratings": [
+      { "name": "5 star", "count": 1510 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "3 star", "count": 400 },
+      { "name": "2 star", "count": 180 },
+      { "name": "1 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnx5PUZpS5WvwJdWU0Qi7oQaYNXyFpMkHR9g&s",
+    "title": "TaskFlow",
+    "companyName": "NextGen Apps",
+    "id": 3,
+    "description": "Take control of your day with TaskFlow, the ultimate productivity manager. This app helps you to **organize your tasks and boost productivity with smart reminders** and powerful project management features. Easily create to-do lists, set deadlines, and categorize your tasks by project, priority, or due date. Use the intuitive drag-and-drop interface to manage complex workflows. TaskFlow features recurring task settings, sub-tasks for breaking down large projects, and intelligent notifications that learn your habits to remind you at the perfect time. Sync seamlessly across all your devices, collaborate with team members, and visualize your progress with insightful statistics and a clear calendar view to ensure you never miss a deadline.",
+    "size": 40,
+    "reviews": 1780,
+    "ratingAvg": 4.5,
+    "downloads": "3.5m",
+    "developerBy": "NextGen Labs",
+    "totalReviews": 1780,
+    "ratings": [
+      { "name": "5 star", "count": 1030 },
+      { "name": "4 star", "count": 500 },
+      { "name": "3 star", "count": 150 },
+      { "name": "2 star", "count": 60 },
+      { "name": "1 star", "count": 40 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/XbyPYUvaiayhseYJkxprcSRwnRCm3wtlEQq9SW7eQ-aCaYCbqi3NSweLJgzK_i1u2EY",
+    "title": "FitTrack",
+    "companyName": "Healthify Co.",
+    "id": 4,
+    "description": "Achieve your fitness goals with FitTrack, the intelligent health and exercise companion. This robust app lets you **track workouts, monitor calories, and stay fit with personalized AI guidance**. Log over 100 different types of activities with GPS tracking and detailed metrics. Monitor your nutritional intake with a comprehensive food diary, and get instant feedback on your daily calorie goals. Our unique AI coach provides customized workout plans based on your performance and goals, adjusting dynamically as you improve. Connect with popular wearable devices, challenge friends to fitness competitions, and visualize your long-term progress with detailed charts and historical data to keep you motivated on your wellness journey.",
+    "size": 95,
+    "reviews": 2890,
+    "ratingAvg": 4.7,
+    "downloads": "1m",
+    "developerBy": "Healthify Tech",
+    "totalReviews": 2890,
+    "ratings": [
+      { "name": "5 star", "count": 1865 },
+      { "name": "4 star", "count": 750 },
+      { "name": "3 star", "count": 200 },
+      { "name": "2 star", "count": 45 },
+      { "name": "1 star", "count": 30 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/VXl4frs1zbWoQLXZVo4gNSUE1j6XyzdRU1IbYl9vzHA6i3NfpMy6yPIZg13bL-76Qw=w526-h296-rw",
+    "title": "LearnIt",
+    "companyName": "EduTech Global",
+    "id": 5,
+    "description": "Expand your knowledge and master new competencies with LearnIt. This educational app empowers you to **learn new skills through interactive lessons and engaging quizzes** across hundreds of topics, from coding and languages to finance and history. The curriculum is structured into bite-sized lessons, making it easy to fit learning into your busy schedule. Progress tracking, personalized review sessions, and gamified elements keep you motivated and accountable. Test your understanding with challenging quizzes and earn certifications upon course completion. LearnIt leverages adaptive learning technology to tailor the pace and content to your individual needs, ensuring the most effective and efficient learning experience possible.",
+    "size": 120,
+    "reviews": 5100,
+    "ratingAvg": 4.4,
+    "downloads": "600k",
+    "developerBy": "EduTech Systems",
+    "totalReviews": 5100,
+    "ratings": [
+      { "name": "5 star", "count": 2320 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "3 star", "count": 700 },
+      { "name": "2 star", "count": 280 },
+      { "name": "1 star", "count": 200 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW9Z8vHdnr6rfyIyy_wxgVXHmhaz_RUTJGmQ&s",
+    "title": "TripMate",
+    "companyName": "TravelWorld Inc.",
+    "id": 6,
+    "description": "Your essential partner for hassle-free travel, TripMate makes planning and exploring simple. With this app, you can effortlessly **plan your trips, find the best flights and accommodation, and explore destinations easily**. Access real-time flight status updates, manage your bookings in one place, and discover curated local recommendations for restaurants, attractions, and hidden gems. The integrated itinerary builder allows you to organize your daily schedule, complete with maps and navigation. Offline access to maps and essential information means you're never lost, even without a data connection. TripMate also includes a budgeting tool, currency converter, and safety alerts to ensure a smooth and enjoyable journey from start to finish.",
+    "size": 70,
+    "reviews": 2300,
+    "ratingAvg": 4.2,
+    "downloads": "2m",
+    "developerBy": "TravelWorld Team",
+    "totalReviews": 2300,
+    "ratings": [
+      { "name": "5 star", "count": 850 },
+      { "name": "4 star", "count": 800 },
+      { "name": "3 star", "count": 400 },
+      { "name": "2 star", "count": 150 },
+      { "name": "1 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/f3ejHit0ZaO2R3f1U0UcFPCSE43NpQ4yeGmfwVX75zKV_2DDnVQTNL4Uin4ZWkaGYr90",
+    "title": "NoteEase",
+    "companyName": "SmartSoft",
+    "id": 7,
+    "description": "NoteEase is the streamlined solution for all your note-taking needs. With this app, you can **quickly create, sync, and organize your notes with reliable cloud backup**. Capture your thoughts instantly with text, voice, and image notes. Use intuitive tagging and folders to keep everything meticulously organized and easily searchable. Cross-device synchronization ensures your notes are always up-to-date, whether you're on your phone, tablet, or desktop. Security is a priority, with optional password protection for sensitive information. Share notes effortlessly with colleagues or friends, set reminders for important items, and customize your writing experience with various themes and formatting options, making NoteEase the perfect digital notebook.",
+    "size": 55,
+    "reviews": 1640,
+    "ratingAvg": 4.1,
+    "downloads": "3m",
+    "developerBy": "SmartSoft Devs",
+    "totalReviews": 1640,
+    "ratings": [
+      { "name": "5 star", "count": 500 },
+      { "name": "4 star", "count": 500 },
+      { "name": "3 star", "count": 350 },
+      { "name": "2 star", "count": 160 },
+      { "name": "1 star", "count": 130 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/xStBcJPuPBtrPnQi8swLwib0wnIQOZp2J7ckVAj7NHXHcJBAg4IiwRbYxAHd4Cj2TQ",
+    "title": "WeatherNow",
+    "companyName": "SkyView Labs",
+    "id": 8,
+    "description": "Stay informed and prepared with WeatherNow, your source for accurate atmospheric data. Get **real-time weather forecasts, high-definition radar maps, and timely alerts worldwide**. Our app provides hyper-local hourly and 10-day forecasts, complete with details on temperature, humidity, wind speed, precipitation probability, and UV index. The interactive radar map shows live precipitation movement, helping you plan around storms. Customize your alerts for severe weather warnings, excessive heat, or air quality changes. WeatherNow's sleek, customizable interface offers beautiful visual representations of the forecast and supports multiple saved locations, ensuring you're always ready for whatever the sky brings.",
+    "size": 65,
+    "reviews": 2750,
+    "ratingAvg": 4.5,
+    "downloads": "7.1k",
+    "developerBy": "SkyView Labs",
+    "totalReviews": 2750,
+    "ratings": [
+      { "name": "5 star", "count": 1490 },
+      { "name": "4 star", "count": 800 },
+      { "name": "3 star", "count": 300 },
+      { "name": "2 star", "count": 90 },
+      { "name": "1 star", "count": 70 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/OutAjz8lMN0LlDF9FRmBAmIHOh2Iw-tvFUxm0FhVgMu6l0rWMoCzdVwV_yanbTfxqw=w240-h480-rw",
+    "title": "ShopEasy",
+    "companyName": "Ecomify",
+    "id": 9,
+    "description": "Experience the convenience of modern commerce with ShopEasy. We make **online shopping easy with secure payments, lightning-fast delivery, and a vast catalog of products**. Browse millions of items across categories like electronics, fashion, home goods, and more. Our personalized recommendation engine helps you discover products you'll love. Enjoy multiple secure payment options, detailed product reviews, and 24/7 customer support. Track your orders in real-time and take advantage of our easy return policy. ShopEasy is committed to providing a seamless, reliable, and delightful shopping experience right from your mobile device.",
+    "size": 110,
+    "reviews": 4800,
+    "ratingAvg": 4.6,
+    "downloads": "2M",
+    "developerBy": "Ecomify Studio",
+    "totalReviews": 4800,
+    "ratings": [
+      { "name": "5 star", "count": 2580 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "2 star", "count": 240 },
+      { "name": "1 star", "count": 180 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/a-BnIrgc0r-7ci0Zl9mf9pLQJP-kjfm1pudhYqCz3zip2MJ2FuBb8nb6JRDLUwcGhRE",
+    "title": "FoodBuzz",
+    "companyName": "TastyTech",
+    "id": 10,
+    "description": "Satisfy your cravings with FoodBuzz, the definitive guide to dining and delivery. This app helps you **discover local restaurants, easily order food online, and read authentic customer reviews**. Browse menus, see high-quality photos, and filter options by cuisine, price, and distance. Place an order for delivery or pickup with just a few taps, track your meal preparation and delivery in real-time, and save your favorite orders for quick reordering. FoodBuzz features exclusive deals and loyalty programs, making every meal more rewarding. Whether you're looking for a new spot for dinner or a quick lunch delivery, FoodBuzz connects you with the best food in your area.",
+    "size": 90,
+    "reviews": 3900,
+    "ratingAvg": 4.4,
+    "downloads": "1.2M",
+    "developerBy": "TastyTech Dev Team",
+    "totalReviews": 3900,
+    "ratings": [
+      { "name": "5 star", "count": 1980 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "3 star", "count": 500 },
+      { "name": "2 star", "count": 200 },
+      { "name": "1 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS073QhJ2TCzHKtxw8-8goErhHSy_2QL67oKw&s",
+    "title": "CryptoVault",
+    "companyName": "BlockFin Corp.",
+    "id": 11,
+    "description": "Empower your financial future with CryptoVault, the secure platform for digital assets. Use this app to **manage and track your entire crypto portfolio with live, real-time market updates**. Connect securely to multiple exchanges and wallets to get a consolidated view of your holdings. Monitor price movements, set custom alerts for market changes, and view detailed charts and historical data for thousands of cryptocurrencies. CryptoVault prioritizes security with multi-factor authentication and encrypted data storage. Whether you are a seasoned trader or a newcomer, our user-friendly interface and comprehensive tools will help you make informed decisions in the fast-paced world of digital finance.",
+    "size": 75,
+    "reviews": 2100,
+    "ratingAvg": 4.3,
+    "downloads": "900K",
+    "developerBy": "BlockFin Devs",
+    "totalReviews": 2100,
+    "ratings": [
+      { "name": "5 star", "count": 830 },
+      { "name": "4 star", "count": 700 },
+      { "name": "3 star", "count": 350 },
+      { "name": "2 star", "count": 120 },
+      { "name": "1 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84",
+    "title": "MindCalm",
+    "companyName": "ZenSpace Ltd.",
+    "id": 12,
+    "description": "Find your peace with MindCalm, your pocket guide to tranquility. This application invites you to **relax and meditate with professionally guided sessions and a library of soothing sounds**. Choose from meditations focused on sleep, stress reduction, focus, and gratitude. The app features customizable meditation durations and various soundscapes, including nature sounds, ambient music, and white noise. Track your meditation consistency, set daily reminders for mindfulness, and explore advanced breathing exercises. MindCalm is designed to help you build a sustainable meditation habit, reducing anxiety and improving overall mental well-being for a calmer, more focused life.",
+    "size": 65,
+    "reviews": 1500,
+    "ratingAvg": 4.8,
+    "downloads": "750K",
+    "developerBy": "ZenSpace Labs",
+    "totalReviews": 1500,
+    "ratings": [
+      { "name": "5 star", "count": 940 },
+      { "name": "4 star", "count": 400 },
+      { "name": "3 star", "count": 100 },
+      { "name": "2 star", "count": 40 },
+      { "name": "1 star", "count": 20 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/kErvnJizNhVlLZYMNhkK6hf-8Mq7aYGlrqXMpisZ7cFGYsyDTJJiodD4u-Xhx86fvH-4Z2SZH1cIMBe0y5pYcg",
+    "title": "GameArena",
+    "companyName": "PlayCore Studio",
+    "id": 13,
+    "description": "Jump into the world of mobile gaming with GameArena. Use this platform to **discover and play trending mobile games, challenge friends, and climb global leaderboards**. Our curated selection features the best new releases and classic favorites across all genres. Access exclusive in-game content, connect with a vibrant community of players, and participate in daily and weekly tournaments. The app provides detailed stats on your performance, personalized game recommendations, and a built-in messenger for coordinating with your squad. GameArena is the ultimate hub for every mobile gaming enthusiast looking for their next adventure.",
+    "size": 130,
+    "reviews": 6800,
+    "ratingAvg": 4.5,
+    "downloads": "3M",
+    "developerBy": "PlayCore Games",
+    "totalReviews": 6800,
+    "ratings": [
+      { "name": "5 star", "count": 3200 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "3 star", "count": 900 },
+      { "name": "2 star", "count": 400 },
+      { "name": "1 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/GPFn__5drA7MpEu2YujuOGj3cUmHkRV9jlQ-MCh2dluli0LhGeTggHu9bad_F6hMcg",
+    "title": "BudgetBuddy",
+    "companyName": "FinanceX",
+    "id": 14,
+    "description": "Master your money with BudgetBuddy, the smart personal finance app. This tool helps you **track income, manage expenses, and confidently reach your saving goals**. Connect your bank accounts securely for automatic transaction categorization. Visualize your spending habits with insightful charts and graphs, and set custom budgets for different categories like groceries, entertainment, and utilities. Receive alerts when you're close to exceeding a budget, and use our goal-setting feature to plan for major purchases or build your emergency fund. BudgetBuddy simplifies financial management, helping you gain clarity and control over your wealth.",
+    "size": 80,
+    "reviews": 2450,
+    "ratingAvg": 4.2,
+    "downloads": "500K",
+    "developerBy": "FinanceX Team",
+    "totalReviews": 2450,
+    "ratings": [
+      { "name": "5 star", "count": 1130 },
+      { "name": "4 star", "count": 800 },
+      { "name": "3 star", "count": 300 },
+      { "name": "2 star", "count": 130 },
+      { "name": "1 star", "count": 90 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/L-3uf2LwdqGHdAnVrQXZaArn1YyeXRgzGluPxG5BiiRjRQAIEUc50V73zF3_qxiXbw=w240-h480-rw",
+    "title": "BookVerse",
+    "companyName": "LitHub",
+    "id": 15,
+    "description": "BookVerse is your gateway to a universe of stories and knowledge. With this app, you can **read a vast selection of eBooks, listen to high-quality audiobooks, and explore new authors daily**. Customize your reading experience with adjustable fonts, themes, and screen brightness. Seamlessly switch between reading and listening with our cross-format sync. Discover personalized recommendations based on your reading history and connect with a community of fellow book lovers. Whether you're commuting, working out, or relaxing at home, BookVerse ensures your next great read is always at your fingertips, making it a perfect companion for any avid reader.",
+    "size": 95,
+    "reviews": 3200,
+    "ratingAvg": 4.7,
+    "downloads": "1.8M",
+    "developerBy": "LitHub Readers",
+    "totalReviews": 3200,
+    "ratings": [
+      { "name": "5 star", "count": 1630 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "3 star", "count": 350 },
+      { "name": "2 star", "count": 120 },
+      { "name": "1 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/FYAVP11BGQV1WgrOgji5IOXaE9XjlveaCMRec4mglGF-eUefylAFHBNTQFMwfNiFSg",
+    "title": "CleanMaster",
+    "companyName": "SystemPro",
+    "id": 16,
+    "description": "Keep your mobile device running at peak performance with CleanMaster. This essential utility app is designed to **boost performance, clear unnecessary cache and junk files, and optimize your mobile device's battery life**. Use the one-tap boost feature to free up RAM and instantly accelerate your phone's speed. The advanced junk cleaner safely removes residual and temporary files, reclaiming valuable storage space. Our battery optimizer helps you identify and close power-draining apps, extending your usage time. CleanMaster provides system monitoring tools to keep track of CPU usage and temperature, ensuring a smooth and efficient mobile experience.",
+    "size": 50,
+    "reviews": 4100,
+    "ratingAvg": 4.3,
+    "downloads": "2.2M",
+    "developerBy": "SystemPro Developers",
+    "totalReviews": 4100,
+    "ratings": [
+      { "name": "5 star", "count": 2070 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "2 star", "count": 180 },
+      { "name": "1 star", "count": 150 }
+    ]
+  }
+]
