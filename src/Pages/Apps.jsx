@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-import { useLoaderData } from 'react-router';
+import { Link, useLoaderData } from 'react-router';
 import SingaleApp from '../Components/SingaleApp';
+import noapp from '../assets/App-Error.png'
 
 const Apps = () => {
     const allapp=useLoaderData();
@@ -25,12 +26,26 @@ const Apps = () => {
        
        </div>
          {
-            searchData.length===0?'no data':<div className='grid grid-cols-4 gap-5'>
+            searchData.length===0?<div className=' p-7 md:p-20 space-y-5'>
+
+<img className='mx-auto ' src={noapp} alt="" />
+<h2 className='text-[#001931] font-semibold text-2xl md:text-5xl text-center'>OPPS!! APP NOT FOUND</h2>
+<p className='text-[#627382] text-center'>The App you are requesting is not found on our system.  please try another apps</p>
+<div className=' bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] flex justify-center mx-auto py-3 px-4 w-[150px] rounded-[10px] '>
+   
+    
+    <Link className=" text-center text-white font-semibold">Go Back</Link>
+</div>
+            </div>:<div className='grid grid-cols-4 gap-5'>
             {
                 searchData.map(app=><SingaleApp key={app.id} app={app}></SingaleApp>)
             }
         </div>
          }
+         
+            
+            
+        
        </div>
         </div>
     );

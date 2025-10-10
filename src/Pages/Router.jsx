@@ -7,6 +7,7 @@ import Installation from './Installation';
 import Apps from './Apps';
 import Error from './Error';
 import AppDetails from '../Components/AppDetails';
+import Loading from '../Components/Loading';
 
 export const router = createBrowserRouter([
   {
@@ -16,22 +17,32 @@ export const router = createBrowserRouter([
     children:[{
         index:true,
         loader: ()=>fetch('/Data.json'),
-        Component: Home
+        Component: Home,
+        
     },
     {
         path:'/app',
          loader: ()=>fetch('/AllApp.json'),
-        Component: Apps
+        Component: Apps,
+
+          hydrateFallbackElement: <Loading></Loading>,
+      children: [],
+
+        
     },
     {
         path:'/install',
         loader: ()=>fetch('/AllApp.json'),
-        Component: Installation
+        Component: Installation,
+        hydrateFallbackElement: <Loading></Loading>,
+      children: [],
     },
     {
       path:'/AppDetails/:id',
        loader: ()=>fetch('/AllApp.json'),
-      Component:AppDetails
+      Component:AppDetails,
+      hydrateFallbackElement: <Loading></Loading>,
+      children: [],
     }
 
 

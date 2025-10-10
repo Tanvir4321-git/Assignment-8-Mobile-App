@@ -1,6 +1,7 @@
 import { ArrowDownToLine, Star } from 'lucide-react';
 
 import { getdata } from '../Pages/utlities';
+import { toast } from 'react-toastify';
 
 const Inastall = ({i,set}) => {
     const {image,ratingAvg,downloads,size,companyName,id}=i
@@ -16,7 +17,8 @@ const handleUninstall=(id)=>{
      const converyStringfy=JSON.stringify(update)
       localStorage.setItem('installedApp',converyStringfy)
        set(prev => prev.filter(item => item.id !== id));
- 
+ toast('Successfuly uninstall',{
+     position: "top-center"})
 }
 
     return (

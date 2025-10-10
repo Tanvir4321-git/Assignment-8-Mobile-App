@@ -11,7 +11,7 @@ const Installation = () => {
     useEffect(() => {
         const storedata = getdata()
         const convertData=storedata.map(id=>parseInt(id))
-        
+         
       
     
     const installApp=fetchData.filter(inApp=>convertData.includes(inApp.id))

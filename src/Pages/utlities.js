@@ -1,3 +1,4 @@
+import { toast } from "react-toastify";
 
 const getdata=()=>{
     const getData=localStorage.getItem('installedApp');
@@ -10,10 +11,15 @@ const getdata=()=>{
     }
 }
 
-const setData=id=>{
+const setData=(id)=>{
     const storeData=getdata()
         if(storeData.includes(id)){
-        alert('ami asi onno kaw k naw')
+            
+        toast('App already Installed',{
+            
+     position: "top-center"
+        })
+        
     }
         else{
             storeData.push(id)

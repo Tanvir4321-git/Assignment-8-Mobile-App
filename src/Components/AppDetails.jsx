@@ -1,8 +1,9 @@
 import { Download, Star, UserStar } from 'lucide-react';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
-import { setData } from '../Pages/utlities';
+import { getdata, setData } from '../Pages/utlities';
+import { toast } from 'react-toastify';
 
 const AppDetails = () => {
     const {id}=useParams();
@@ -11,11 +12,31 @@ const AppDetails = () => {
     const detailsData=AppData.find(f=>f.id===newid)
 const {image,companyName,developerBy,downloads,ratingAvg,reviews,size,ratings,description }=detailsData ||{}
 
-const [visible, setVisible]=useState(true)
+  const [visible, setVisible]=useState(true)
+    useEffect(() => {
+        const storedata = getdata()
+        // const convertData=storedata.map(id=>parseInt(id))
+ if(storedata.includes(id)){
+     setVisible(false)
+      
+ }
+         }, [])
+
+
 
 const handleClick=(id)=>{
-setVisible(false)
+
+ 
+   
+  setVisible(false)
+      
+
+
 setData(id)
+visible?toast('Successfully  Install App',{
+     position: "top-center"
+}):''
+
 
 }
 
