@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hero.png" alt="MERN Stack Developer Banner" width="100%">
+</p>
+
 📱 Assignment 8 – Mobile App
 
 
