@@ -1,16 +1,74 @@
-# React + Vite
+📱 Assignment 8 – Mobile App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This project is a complete mobile‑focused web application built with React and Vite.
+It implements a responsive UI with key mobile app‑like features and smooth navigation.
+The project demonstrates practical usage of modern frontend tools including React, Tailwind CSS.
+This template helps organize and structure UI components like a real mobile interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo
 
-## React Compiler
+(Add Live Demo link here if deployed)
+Example: https://app-store-assignmet-8.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+React.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Vite
+
+Tailwind CSS
+
+DaisyUI 
+
+ESLint
+
+🚀 Key Features
+
+Responsive layout optimized for mobile screens
+
+Clean navigation between sections
+
+Reusable and modular React components
+
+Structured CSS with Tailwind for fast UI design
+
+Fast loading with Vite development tooling
+
+Simple component hierarchy and folder structure
+
+Mobile‑first design principles
+
+
+
+📦 NPM Packages Used
+
+react
+
+react‑dom
+
+vite
+
+tailwindcss
+
+daisyui
+
+eslint
+
+
+
+▶️ Getting Started
+
+To run this project locally, follow these steps:
+
+1️⃣ Clone the repository
+git clone https://github.com/Tanvir4321-git/Assignment-8-Mobile-App.git
+
+2️⃣ Go to project directory
+cd Assignment-8-Mobile-App
+
+3️⃣ Install dependencies
+npm install
+
+4️⃣ Start development server
+npm run dev
