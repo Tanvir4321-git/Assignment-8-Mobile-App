@@ -2,7 +2,7 @@
   <img src="hero.png" alt="MERN Stack Developer Banner" width="100%">
 </p>
 
-📱 Assignment 8 – Mobile App
+##📱 Assignment 8 – Mobile App
 
 
 This project is a complete mobile‑focused web application built with React and Vite.
@@ -11,9 +11,7 @@ The project demonstrates practical usage of modern frontend tools including Reac
 This template helps organize and structure UI components like a real mobile interface.
 
 🔗 Live Demo
-
-(Add Live Demo link here if deployed)
-Example: https://app-store-assignmet-8.netlify.app/
+ https://app-store-assignmet-8.netlify.app/
 
 🛠️ Technologies Used
 
